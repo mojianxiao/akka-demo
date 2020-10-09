@@ -4,8 +4,8 @@ com/lightbend/akka/sample/Greeter.java
  com.lightbend.akka.sample.Greeter$WhoToGreet
 com/example/iot/IotMain.java
  com.example.iot.IotMain
-com/example/simple/FirstActor.java
- com.example.simple.FirstActor
+com/example/simple/SecondActor.java
+ com.example.simple.SecondActor
 com/example/ActorHierarchyExperiments.java
  com.example.ActorHierarchyExperiments
  com.example.PrintMyActorRefActor
@@ -31,10 +31,12 @@ com/example/iot/DeviceGroup.java
  com.example.iot.DeviceGroup$TemperatureReading
 com/example/simple/ActorSystemTools.java
  com.example.simple.ActorSystemTools
-com/example/simple/Demo.java
- com.example.simple.Demo
-com/example/simple/MyDemoActor.java
- com.example.simple.MyDemoActor
+com/example/hiakka/RouterActor.java
+ com.example.hiakka.RouterActor
+ com.example.hiakka.RouterActor$Worker
+com/example/iot/DeviceGroupQuery.java
+ com.example.iot.DeviceGroupQuery
+ com.example.iot.DeviceGroupQuery$CollectionTimeout
 com/example/iot/Device.java
  com.example.iot.Device
  com.example.iot.Device$ReadTemperature
@@ -54,9 +56,9 @@ com/example/hiakka/Swapper.java
  com.example.hiakka.Swapper$Swap
 com/lightbend/akka/sample/AkkaQuickstart.java
  com.lightbend.akka.sample.AkkaQuickstart
-com/example/iot/DeviceGroupQuery.java
- com.example.iot.DeviceGroupQuery
- com.example.iot.DeviceGroupQuery$CollectionTimeout
-com/example/hiakka/RouterActor.java
- com.example.hiakka.RouterActor
- com.example.hiakka.RouterActor$Worker
+com/example/simple/FirstActor.java
+ com.example.simple.FirstActor
+com/example/simple/Demo.java
+ com.example.simple.Demo
+com/example/simple/MyDemoActor.java
+ com.example.simple.MyDemoActor
