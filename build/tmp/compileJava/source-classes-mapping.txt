@@ -58,7 +58,11 @@ com/lightbend/akka/sample/AkkaQuickstart.java
  com.lightbend.akka.sample.AkkaQuickstart
 com/example/simple/FirstActor.java
  com.example.simple.FirstActor
-com/example/simple/Demo.java
- com.example.simple.Demo
 com/example/simple/MyDemoActor.java
  com.example.simple.MyDemoActor
+com/example/simple/ReceiveActor.java
+ com.example.simple.ReceiveActor
+com/example/simple/Demo.java
+ com.example.simple.Demo
+com/example/simple/AkkaService.java
+ com.example.simple.AkkaService
