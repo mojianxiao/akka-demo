@@ -22,7 +22,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a4c397c-57e3-4788-b54a-589c96458f30" name="Default" comment="" />
+    <list default="true" id="1a4c397c-57e3-4788-b54a-589c96458f30" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,12 +59,32 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="akka-test" type="f1a62948:ProjectNode" />
+                <item name="akka-demo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="akka-demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="akka-demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="akka-demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -58,7 +101,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -77,6 +120,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="Supplier&#9;PSI&#9;JAVA://java.util.function.Supplier" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -240,13 +284,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -255,6 +301,25 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="akka-demo [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="AkkaQuickstartTest.testGreet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="akka-quickstart-java" />
@@ -273,60 +338,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AkkaQuickstartTest.testGreeterActorSendingOfGreeting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="akka-quickstart-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lightbend.akka.sample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lightbend.akka.sample" />
-      <option name="MAIN_CLASS_NAME" value="com.lightbend.akka.sample.AkkaQuickstartTest" />
-      <option name="METHOD_NAME" value="testGreeterActorSendingOfGreeting" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -362,16 +376,16 @@
       <item itemvalue="Application.AkkaQuickstart" />
       <item itemvalue="Application.FirstActor" />
       <item itemvalue="Application.Demo" />
-      <item itemvalue="JUnit.AkkaQuickstartTest.testGreeterActorSendingOfGreeting" />
       <item itemvalue="JUnit.AkkaQuickstartTest.testGreet" />
+      <item itemvalue="Gradle.akka-demo [dependencies]" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Demo" />
+        <item itemvalue="Gradle.akka-demo [dependencies]" />
         <item itemvalue="Application.FirstActor" />
         <item itemvalue="JUnit.AkkaQuickstartTest.testGreet" />
         <item itemvalue="Application.AkkaQuickstart" />
-        <item itemvalue="JUnit.AkkaQuickstartTest.testGreeterActorSendingOfGreeting" />
       </list>
     </recent_temporary>
   </component>
@@ -400,6 +414,7 @@
       <workItem from="1564136973400" duration="9228000" />
       <workItem from="1565592123946" duration="2784000" />
       <workItem from="1602207971678" duration="4365000" />
+      <workItem from="1602238747166" duration="893000" />
     </task>
     <servers />
   </component>
@@ -428,11 +443,11 @@
       <screen x="-102" y="-1057" width="1920" height="1057" />
     </state>
     <state width="438" height="466" key="DebuggerActiveHint/60.23.1380.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602230145029" />
-    <state width="1878" height="285" key="GridCell.Tab.0.bottom" timestamp="1602238007842">
+    <state width="1878" height="373" key="GridCell.Tab.0.bottom" timestamp="1602239645420">
       <screen x="-102" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1878" height="285" key="GridCell.Tab.0.bottom/48.23.1392.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602237105551" />
-    <state width="1878" height="285" key="GridCell.Tab.0.bottom/50.23.1390.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602238007842" />
+    <state width="1878" height="373" key="GridCell.Tab.0.bottom/50.23.1390.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602239645420" />
     <state width="1878" height="285" key="GridCell.Tab.0.bottom/52.23.1388.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602236413873" />
     <state width="1878" height="285" key="GridCell.Tab.0.bottom/52.23.1388.877@52.23.1388.877" timestamp="1602236749310" />
     <state width="1878" height="285" key="GridCell.Tab.0.bottom/54.23.1386.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602227032966" />
@@ -440,11 +455,11 @@
     <state width="1878" height="285" key="GridCell.Tab.0.bottom/62.23.1378.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602225750684" />
     <state width="1878" height="285" key="GridCell.Tab.0.bottom/65.23.1375.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602217164165" />
     <state width="1878" height="285" key="GridCell.Tab.0.bottom/68.23.1372.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602214196123" />
-    <state width="1878" height="285" key="GridCell.Tab.0.center" timestamp="1602238007839">
+    <state width="1878" height="373" key="GridCell.Tab.0.center" timestamp="1602239645419">
       <screen x="-102" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1878" height="285" key="GridCell.Tab.0.center/48.23.1392.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602237105550" />
-    <state width="1878" height="285" key="GridCell.Tab.0.center/50.23.1390.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602238007839" />
+    <state width="1878" height="373" key="GridCell.Tab.0.center/50.23.1390.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602239645419" />
     <state width="1878" height="285" key="GridCell.Tab.0.center/52.23.1388.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602236413872" />
     <state width="1878" height="285" key="GridCell.Tab.0.center/52.23.1388.877@52.23.1388.877" timestamp="1602236749304" />
     <state width="1878" height="285" key="GridCell.Tab.0.center/54.23.1386.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602227032965" />
@@ -452,11 +467,11 @@
     <state width="1878" height="285" key="GridCell.Tab.0.center/62.23.1378.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602225750683" />
     <state width="1878" height="285" key="GridCell.Tab.0.center/65.23.1375.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602217164163" />
     <state width="1878" height="285" key="GridCell.Tab.0.center/68.23.1372.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602214196120" />
-    <state width="1878" height="285" key="GridCell.Tab.0.left" timestamp="1602238007817">
+    <state width="1878" height="373" key="GridCell.Tab.0.left" timestamp="1602239645418">
       <screen x="-102" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1878" height="285" key="GridCell.Tab.0.left/48.23.1392.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602237105550" />
-    <state width="1878" height="285" key="GridCell.Tab.0.left/50.23.1390.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602238007817" />
+    <state width="1878" height="373" key="GridCell.Tab.0.left/50.23.1390.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602239645418" />
     <state width="1878" height="285" key="GridCell.Tab.0.left/52.23.1388.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602236413872" />
     <state width="1878" height="285" key="GridCell.Tab.0.left/52.23.1388.877@52.23.1388.877" timestamp="1602236749301" />
     <state width="1878" height="285" key="GridCell.Tab.0.left/54.23.1386.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602227032964" />
@@ -464,11 +479,11 @@
     <state width="1878" height="285" key="GridCell.Tab.0.left/62.23.1378.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602225750682" />
     <state width="1878" height="285" key="GridCell.Tab.0.left/65.23.1375.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602217164161" />
     <state width="1878" height="285" key="GridCell.Tab.0.left/68.23.1372.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602214195973" />
-    <state width="1878" height="285" key="GridCell.Tab.0.right" timestamp="1602238007841">
+    <state width="1878" height="373" key="GridCell.Tab.0.right" timestamp="1602239645419">
       <screen x="-102" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1878" height="285" key="GridCell.Tab.0.right/48.23.1392.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602237105551" />
-    <state width="1878" height="285" key="GridCell.Tab.0.right/50.23.1390.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602238007841" />
+    <state width="1878" height="373" key="GridCell.Tab.0.right/50.23.1390.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602239645419" />
     <state width="1878" height="285" key="GridCell.Tab.0.right/52.23.1388.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602236413873" />
     <state width="1878" height="285" key="GridCell.Tab.0.right/52.23.1388.877@52.23.1388.877" timestamp="1602236749307" />
     <state width="1878" height="285" key="GridCell.Tab.0.right/54.23.1386.877/-102.-1057.1920.1057@-102.-1057.1920.1057" timestamp="1602227032966" />
@@ -577,24 +592,19 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/example/simple/Demo.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/example/simple/AkkaService.java</url>
           <line>173</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/example/simple/Demo.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/example/simple/AkkaService.java</url>
           <line>74</line>
           <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/simple/Demo.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
