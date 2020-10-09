@@ -1,0 +1,8 @@
+com/lightbend/akka/sample/AkkaQuickstartTest.java
+ com.lightbend.akka.sample.AkkaQuickstartTest
+com/lightbend/akka/sample/DeviceGroupQueryTest.java
+ com.lightbend.akka.sample.DeviceGroupQueryTest
+com/lightbend/akka/sample/DeviceManagerTest.java
+ com.lightbend.akka.sample.DeviceManagerTest
+com/lightbend/akka/sample/DeviceTest.java
+ com.lightbend.akka.sample.DeviceTest
